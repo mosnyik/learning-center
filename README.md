@@ -11,7 +11,7 @@ The minted certificate would have:
 
 TECH STACK USED
 The project has a frontend, a backend and smart contract.
-The frontend is built with html, css and js
+The frontend is built with ReactJS, NextJS and TailwindCSS
 the backend is built using Zoho Suites and solidity for smart contracts is used for the minting of the Soulbond Certificate NFT.
 
 HOW IT WORKS
